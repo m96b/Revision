@@ -4,4 +4,3 @@ Here are some edits I'm making as a test
 Again - editing using mac terminal
 Making further changes
 Pull request from terminal using newbranch
-Will pull request reach the terminal?
